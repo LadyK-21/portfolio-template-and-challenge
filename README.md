@@ -1,4 +1,4 @@
-# Developer Portolio Site Template and Challenge
+# Developer Portfolio Site Template and Challenge
 
 This project's purpose is to give you a head start on your portfolio site if you are yet to create one as well as give you meaningful challenges that will equip you to build out your portfolio whether you're using this template or not. If you have a site and want to checkout the challenges, visit the [GitHub Project Page](https://github.com/eggheadio/portfolio-template-and-challenge/projects/1).
 
