@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@heroicons/react": "^1.0.6",
-    "@reach/disclosure": "^0.16.2",
+    "@reach/disclosure": "^0.17.0",
     "@reach/menu-button": "^0.16.2",
     "@reach/tabs": "^0.16.4",
     "@tailwindcss/aspect-ratio": "^0.4.0",
